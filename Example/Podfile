@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '10.0'
+
+target 'SwiftUIMasking_Example' do
+  pod 'SwiftUIMasking', :path => '../'
+
+  target 'SwiftUIMasking_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
