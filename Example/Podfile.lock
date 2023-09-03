@@ -1,0 +1,16 @@
+PODS:
+  - SwiftUIMasking (0.1.0)
+
+DEPENDENCIES:
+  - SwiftUIMasking (from `../`)
+
+EXTERNAL SOURCES:
+  SwiftUIMasking:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  SwiftUIMasking: 781587aa77ebefaa6657d737957e64893a98cc7b
+
+PODFILE CHECKSUM: 1791ba8f52642d598129c0612a1df42355ac637a
+
+COCOAPODS: 1.12.1
