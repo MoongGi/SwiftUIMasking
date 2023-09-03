@@ -22,7 +22,7 @@ pod 'SwiftUIMasking'
 
 ## Author
 
-MoongGi, mg.kim@autowini.com
+MoongGi, hihibibi00@naver.com
 
 ## License
 
